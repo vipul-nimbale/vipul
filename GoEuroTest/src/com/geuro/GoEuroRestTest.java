@@ -193,7 +193,7 @@ public class GoEuroRestTest implements GeuroConstants  {
 	    	writer.append(NEW_LINE);
 		    
 		    writer.flush();
-	
+		    writer.close();
 		}
 		catch(FileNotFoundException fne){
 			System.out.println(FILE_ERROR_MESSAGE);
