@@ -1,6 +1,10 @@
 package com.geuro.constants;
 
-public interface GeuroConstants {
+public final class GeuroConstants {
+	
+	private GeuroConstants(){
+		
+	}
 	
 	public static final String REQUEST_GET_METHOD = "GET";
 	
