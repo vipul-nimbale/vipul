@@ -18,7 +18,7 @@ import org.json.simple.parser.ParseException;
 
 
 import com.geuro.bean.CityInfo;
-import com.geuro.constants.GeuroConstants;
+import static com.geuro.constants.GeuroConstants.*;
 
 public class GoEuroRestTest implements GeuroConstants  {
 
