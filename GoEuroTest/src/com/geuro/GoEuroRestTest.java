@@ -20,7 +20,7 @@ import org.json.simple.parser.ParseException;
 import com.geuro.bean.CityInfo;
 import static com.geuro.constants.GeuroConstants.*;
 
-public class GoEuroRestTest implements GeuroConstants  {
+public class GoEuroRestTest   {
 
 	/**
 	 * @param args
